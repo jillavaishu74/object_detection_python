@@ -12,7 +12,7 @@ async def send_tele(image_path):
     bot = telegram.Bot(token=api_token)
 
     # Replace 'chat_id' with the chat or channel ID where you want to send the image
-    chat_id = '5225253331'
+    chat_id = 'telegram bot id'
 
     # Replace 'path_to_image.jpg' with the actual path to your image file
     # image_path = '/home/mustafa/Desktop/hero.jpg'
